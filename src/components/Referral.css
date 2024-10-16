@@ -1,0 +1,38 @@
+.referral {
+    margin: 2rem auto;
+    max-width: 600px;
+    padding: 1rem;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .referral h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .referral form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .referral input,
+  .referral textarea,
+  .referral button {
+    margin: 0.5rem 0;
+    padding: 0.75rem;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  .referral button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+  }
+  
+  .referral button:hover {
+    background-color: #0056b3;
+  }
+  

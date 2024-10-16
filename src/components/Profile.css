@@ -1,0 +1,27 @@
+/* src/components/Profile.css */
+
+.profile {
+    padding: 20px;
+    background-image: url('/images/doctor-background.jpg'); /* Path to your background image */
+    background-size: cover; /* Ensure the image covers the entire area */
+    background-position: center; /* Center the image */
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    color: white; /* Set text color to white for better contrast */
+  }
+  
+  .patient-info {
+    background-color: rgba(248, 248, 248, 0.9); /* Light gray with transparency for the patient info box */
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    text-align: center; /* Center the text */
+    color: #333; /* Change text color to dark for better visibility */
+  }
+  
+  /* Additional styles... */
+  
+  
+  
+  
