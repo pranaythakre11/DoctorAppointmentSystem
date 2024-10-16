@@ -3,7 +3,7 @@
 <h2>Overview</h2>
 The Doctor Appointment/Referral System is a user-friendly web application designed to simplify the process of booking doctor appointments and generating referrals. The application provides a clean and intuitive user interface (UI) for both patients and doctors, allowing them to manage profiles, appointments, and referral processes efficiently.
 
-<h3>Key Features</h3><br><br>
+<h3>Key Features</h3>
 *Home Page: A welcoming interface with animations and information about the platform.<br>
 *Doctor Profiles: View detailed profiles of available doctors and book appointments with them.<br>
 *Appointment Booking: Allows users to schedule appointments with doctors, including the option to specify symptoms and preferred time.<br>
@@ -13,13 +13,15 @@ The Doctor Appointment/Referral System is a user-friendly web application design
 *Responsive Design: Ensures the application looks great and functions well on both desktop and mobile devices.<br>
 *Animations: Enhances user experience with smooth text animations on the home page.<br>
 
-<h3>Technologies Used</h3><br><br>
+<h3>Technologies Used</h3>
 *React: Front-end framework for building the user interface.<br>
 *React Router: For navigation and routing between different pages.<br>
 *Vite: Build tool for setting up and running the development environment.<br>
 *CSS: For styling and layout, including custom CSS for each component.<br>
 *JavaScript (ES6+): For implementing functionality within the components.<br>
 *HTML5: Markup language for structuring pages.<br>
+
+
 
 <h4>Setup Instructions</h4>
 To run this project locally, follow these steps:
