@@ -49,7 +49,7 @@ npm run dev
 http://localhost:3000
 
 
-<h1> OUTPUR </h1>
+<h1> OUTPUT </h1>
 
 
 ![1](https://github.com/user-attachments/assets/4f8d7316-7da9-4dbf-b537-8bd4a2bdbd42)
